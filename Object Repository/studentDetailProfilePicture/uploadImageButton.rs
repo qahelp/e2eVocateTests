@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>uploadImageButton</name>
+   <tag></tag>
+   <elementGuidId>9232ceb2-521b-49d7-8476-0c7ee565ecd4</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App_app_1PX04&quot;]/div[@class=&quot;App_app-right-side_8Fr2V&quot;]/div[@class=&quot;App_app-contents_1ViAH&quot;]/div[1]/div[@class=&quot;quest-container&quot;]/div[@class=&quot;UploadProfilePictureQuest_upload-avatar-quest_23Xaf&quot;]/div[@class=&quot;General_avatar-section_2dT7D General_avatar-section--quest_1mJbv&quot;]/div[@class=&quot;General_avatar-container_2nvk8&quot;]/div[@class=&quot;avatar-upload-dropzone&quot;]/div[@class=&quot;inner&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inner</value>
+   </webElementProperties>
+</WebElementEntity>

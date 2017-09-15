@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>firstListElementDetailedPreferencesInterests</name>
+   <tag></tag>
+   <elementGuidId>ce628b91-42e5-4638-86f2-2d94a5c94dfd</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App_app_1PX04&quot;]/div[@class=&quot;App_app-right-side_8Fr2V&quot;]/div[@class=&quot;App_app-contents_1ViAH&quot;]/div[1]/div[@class=&quot;DetailPreferencesQuestInterests_view-container_3Hvb6&quot;]/div[@class=&quot;DetailPreferencesQuestInterests_centered-interests_3pKdR&quot;]/div[1]/div[@class=&quot;InterestsForm_interests-form-container_1y0RO&quot;]/div[2]/form[1]/label[1]/div[@class=&quot;InterestsForm_row_11eqc&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>InterestsForm_row_11eqc</value>
+   </webElementProperties>
+</WebElementEntity>

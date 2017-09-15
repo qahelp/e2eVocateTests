@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ProfileTermAvailability_te</name>
+   <tag></tag>
+   <elementGuidId>10cbbb2d-9691-449e-8813-f1a6e1770caf</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;Signup_signup_icMxn&quot;]/div[@class=&quot;Signup_contents_1E2Gy&quot;]/div[1]/div[@class=&quot;Signup_form-container--withGrid_u2q-T Signup_form-container_20c80&quot;]/div[@class=&quot;ProfileTermAvailability_term-availability-container_2ZQyn&quot;]/div[@class=&quot;ProfileTermAvailability_term-availability-box_4b_Fa&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ProfileTermAvailability_term-availability-box_4b_Fa</value>
+   </webElementProperties>
+</WebElementEntity>

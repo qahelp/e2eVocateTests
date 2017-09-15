@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Navigation_signup-nav_2NNF</name>
+   <tag></tag>
+   <elementGuidId>e2fee31a-6acc-4047-aa9c-5615fc7f08d0</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;Signup_signup_icMxn&quot;]/div[@class=&quot;Signup_contents_1E2Gy&quot;]/div[1]/div[@class=&quot;Navigation_signup-nav_2NNF3&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Navigation_signup-nav_2NNF3</value>
+   </webElementProperties>
+</WebElementEntity>

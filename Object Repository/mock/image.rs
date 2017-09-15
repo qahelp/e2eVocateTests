@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>image</name>
+   <tag></tag>
+   <elementGuidId>17a5e7d2-3d5d-4793-ac66-32b41eb85544</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App_app_1PX04&quot;]/div[@class=&quot;App_app-right-side_8Fr2V&quot;]/div[@class=&quot;App_app-contents_1ViAH&quot;]/div[1]/div[@class=&quot;quest-container&quot;]/div[@class=&quot;UploadProfilePictureQuest_upload-avatar-quest_23Xaf&quot;]/div[@class=&quot;General_avatar-section_2dT7D General_avatar-section--quest_1mJbv&quot;]/div[@class=&quot;General_avatar-container_2nvk8&quot;]/div[@class=&quot;avatar-upload-dropzone&quot;]/div[@class=&quot;inner&quot;]/div[@class=&quot;inner2&quot;]/svg[@class=&quot;icon-camera&quot;]/image[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>47</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>data:img/png;base64,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</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-svgreactloader</name>
+      <type>Main</type>
+      <value>[[&quot;http://www.w3.org/1999/xlink&quot;,&quot;href&quot;,&quot;data:img/png;base64,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&quot;]]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>40</value>
+   </webElementProperties>
+</WebElementEntity>
