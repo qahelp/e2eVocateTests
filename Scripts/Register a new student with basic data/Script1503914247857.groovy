@@ -23,7 +23,7 @@ def now = System.nanoTime()
 
 String uniqueUser = ('szymon+student' + now) + '@vocate.me'
 
-WebUI.openBrowser('http://app.feature-656.tests.vocate.me/')
+WebUI.openBrowser('http://app.master.tests.vocate.me/')
 
 WebUI.click(findTestObject('Page_Sign In/a_Sign up'))
 
@@ -90,23 +90,27 @@ WebUI.click(findTestObject('studentDetailPreferences/nextButtonOnDetailedPrefere
 
 WebUI.click(findTestObject('studentDetailPreferences/okButtonOnCompletionOfCompeteDetailPreferences'))
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('studentDetailProfilePicture/studentTimelineProfileImageBox'))
 
-WebUI.navigateToUrl('http://app.master.tests.vocate.me/student/quest/upload-profile-picture/')
+WebUI.uploadFile(findTestObject('studentDetailProfilePicture/inputUpload'), '/Users/si/Katalon Studio/testsuite/testfile/1.jpg')
 
-WebUI.click(findTestObject('mock/image'))
+WebUI.click(findTestObject('studentDetailProfilePicture/nextButtonOnStudentProfilePictureView'))
 
-WebUI.click(findTestObject('mock/a_Next'))
+WebUI.click(findTestObject('studentDetailProfilePicture/okButtonOnCompletionOfProfilePicture'))
 
-WebUI.click(findTestObject('mock/a_OK'))
+WebUI.waitForPageLoad(10)
 
-WebUI.click(findTestObject('studentDetailProfilePicture/clickAreaProfileImage'))
+WebUI.click(findTestObject('studentUploadResume/uploadResumeBox'))
 
-WebUI.click(findTestObject(null))
+WebUI.uploadFile(findTestObject('studentUploadResume/resumeUpload'), '/Users/si/Katalon Studio/testsuite/testfile/1.pdf')
 
-WebUI.click(findTestObject(null))
+WebUI.click(findTestObject('studentUploadResume/nextButtonOnStudentResumeView'))
 
-WebUI.click(findTestObject(null))
+WebUI.click(findTestObject('studentUploadResume/okButtonOnCompletionOfResume'))
+
+not_run: WebUI.click(findTestObject(null))
+
+not_run: WebUI.click(findTestObject(null))
 
 not_run: WebUI.closeBrowser()
 

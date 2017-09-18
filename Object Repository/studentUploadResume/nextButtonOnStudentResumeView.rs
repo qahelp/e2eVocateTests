@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nextButtonOnStudentResumeView</name>
+   <tag></tag>
+   <elementGuidId>7c21aa11-178f-4d59-bd61-3ee7daa3b082</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App_app_1PX04&quot;]/div[@class=&quot;App_app-right-side_8Fr2V&quot;]/div[@class=&quot;App_app-contents_1ViAH&quot;]/div[1]/div[@class=&quot;Navigation_signup-nav_2NNF3&quot;]/a[@class=&quot;Navigation_btn-next_1HG7x&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/student/quest/detail-preferences/interests/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Navigation_btn-next_1HG7x</value>
+   </webElementProperties>
+</WebElementEntity>
